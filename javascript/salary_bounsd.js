@@ -1,0 +1,9 @@
+let sal= 15000;
+let twork= 26;
+let work= 10;
+let bouns= sal*5/100;
+
+let pds= sal/twork;
+let csal =pds*work;
+let bounsal=csal+bouns;
+document.write("This month Salary:"+bounsal);

@@ -4,11 +4,11 @@ let a=5;
 let b=3;
 let l=10;
 
-let p=2*pi*r;
+let p=2*pie*r;
 let s=a*a;
 let ar=l*b;
 
-document.write("<p>Perimeter of the circle</p><\br>");
+document.write("<p>Perimeter of the circle</p></br>");
 document.write("radius value:" +r+"</br>");
 document.write("result" +p+"</br>");
 
